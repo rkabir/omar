@@ -4,9 +4,9 @@
 
 Edit worker.py
 
-  $ python init_screens.py
-  $ python multiplex.py
-  $ python kill_screens.py
+    $ python init_screens.py
+    $ python multiplex.py
+    $ python kill_screens.py
 
 ## License
 
